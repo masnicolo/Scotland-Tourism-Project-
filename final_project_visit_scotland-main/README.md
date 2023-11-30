@@ -1,4 +1,4 @@
-# Visit Scotland Tourism Data - CodeClan Final Project
+# Visit Scotland Tourism Data
 <br>
 <h2> Project Brief </h2>
 <br>
